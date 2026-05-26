@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yared Kumera 👋
 
-<!--
-**yaredkumera/YaredKumera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Haramaya University, Ethiopia  
+📍 Addis Ababa, Ethiopia  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a CS student passionate about building software 
+that solves real problems. I built an Ethiopian Orthodox 
+Calendar System (Bahire Hasab) that calculates fasting 
+and celebration dates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Java
+- Git & GitHub
+- NetBeans IDE
+
+## 📂 Projects
+- 🗓️ **Ethiopian Orthodox Calendar System** - Calculates
+  New Year, Timkat, Nineveh, Abiy Tsom & Fasika dates
+
+## 📫 Contact
+- Email: kumerayared5@gmail.com
+- GitHub: github.com/yaredkumera
